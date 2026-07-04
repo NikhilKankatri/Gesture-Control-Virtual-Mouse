@@ -255,7 +255,7 @@ Note: Use Python version: 3.8.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Nikhil Kankatri | [GitHub](https://github.com/NikhilKankatri) | Email | [LinkedIn](www.linkedin.com/in/nikhil-kankatri) | Instagram |
-  | Sachin Reddy | [GitHub](https://github.com/reddysachin532) | [LinkedIn](https://www.linkedin.com/in/sachin-reddy-) | Instagram |
-  | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | [LinkedIn](https://www.linkedin.com/in/parth-sakariya-1886b2193/) | [Instagram](https://www.instagram.com/parth_sak12/) |
+  | Nikhil Kankatri | [GitHub](https://github.com/NikhilKankatri) | [LinkedIn](www.linkedin.com/in/nikhil-kankatri) | 
+  | Sachin Reddy | [GitHub](https://github.com/reddysachin532) | [LinkedIn](https://www.linkedin.com/in/sachin-reddy-) | 
+  | Parth Sakariya | [Github](https://github.com/parth-12) | [LinkedIn](https://www.linkedin.com/in/parth-sakariya-1886b2193/) |
   
